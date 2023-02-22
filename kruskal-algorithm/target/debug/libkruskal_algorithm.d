@@ -1,0 +1,1 @@
+/home/hamdi/Rust_programmig/Rust-Course/Section28-Minimum-Spanning-Trees/kruskal-algorithm/target/debug/libkruskal_algorithm.rlib: /home/hamdi/Rust_programmig/Rust-Course/Section28-Minimum-Spanning-Trees/kruskal-algorithm/src/lib.rs
