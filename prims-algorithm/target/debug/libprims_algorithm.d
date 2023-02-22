@@ -1,0 +1,1 @@
+/home/hamdi/Rust_programmig/Rust-Course/Section28-Minimum-Spanning-Trees/prims-algorithm/target/debug/libprims_algorithm.rlib: /home/hamdi/Rust_programmig/Rust-Course/Section28-Minimum-Spanning-Trees/prims-algorithm/src/lib.rs
